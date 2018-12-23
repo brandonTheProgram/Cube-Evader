@@ -8,7 +8,7 @@ The game is a simplified version of Cubefield in which you are a cube that must 
 
 # To Use
 
-  • This project runs on the Unity engine so make sure you have the latest version installed before attempting to run this project. The       project folder is "Cube Evader".
+  • This project runs on the Unity engine so make sure you have the latest version installed before attempting to run this project. The       project folder is "How to make a Video Game".
   
 # Controls
 
